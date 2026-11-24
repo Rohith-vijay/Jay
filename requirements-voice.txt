@@ -1,0 +1,6 @@
+faster-whisper
+sounddevice
+numpy
+pyttsx3
+edge-tts
+sherpa-onnx

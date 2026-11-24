@@ -1,0 +1,13 @@
+anthropic
+openai
+ollama
+python-dotenv
+jsonschema
+psutil
+requests
+ddgs
+pillow
+playwright
+pypdf
+google-api-python-client
+google-auth-oauthlib
